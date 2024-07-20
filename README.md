@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank gurram</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://shashankgurram.github.io/PersonalPortfolio/](https://shashankgurram.github.io/PersonalPortfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Shashankgurram](https://github.com/Shashankgurram)
 
 - 📫 How to reach me **shashankgurram03@gmail.com**
+
+- 📄 Know about my experiences [https://shashankgurram.github.io/PersonalPortfolio/](https://shashankgurram.github.io/PersonalPortfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
